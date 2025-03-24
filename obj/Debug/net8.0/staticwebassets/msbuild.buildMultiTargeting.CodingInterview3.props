@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodingInterview3.props" />
+</Project>
